@@ -1,10 +1,11 @@
 #include "main.h"
 /**
- * print_numbers: print_numbers function
+ * print_numbers: function
  */
 void print_numbers(void)
 {
 	int i;
+
 	for (i = '0'; i <= '9'; i++)
 	{
 		_putchar(i);
