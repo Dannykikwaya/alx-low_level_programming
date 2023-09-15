@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * mul - function
+ * mul - function to multiplier two integer
  *
- * @a: variable to tested
+ * @a: first variable
  *
  * @b: variable to tested
  *
@@ -11,7 +11,8 @@
 int mul(int a, int b)
 {
 	int result;
-	
+
 	result = a * b;
+
 	return (result);
 }

@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * _isupper: Function for upper case
- * @c: parameter of type char
- * return: Always 0 is succes
+ * _isupper - Function for upper case
+ * @c: parameter of type int
+ * Return: Always 0 is succes
  */
 int _isupper(int c)
 {
